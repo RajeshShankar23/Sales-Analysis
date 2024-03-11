@@ -7,13 +7,12 @@ The Sales Analysis project involves analyzing the sales data of a fictitious com
 The project utilizes the Northwind Database, which includes the following tables:
 - Suppliers
 - Customers
-- Employees
 - Products
 - Shippers
 - Orders
 - Order_Details
 
-## Analysis and Storytelling
+## Tasks
 The project addresses various questions and tasks:
 1. Create a bar chart that illustrates total sales versus category, with automatic highlighting of the highest and lowest categories. This chart offers dynamic filtering options based on the last 30, 60, or 90 days, to be incorporated into the report.
 2. Implement a custom date range filter with options for filtering data based on time periods such as the last 7, 28, 90, and 365 days, month-to-date, previous month, year-to-date, life-time and previous year
